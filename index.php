@@ -1,4 +1,10 @@
 <?php
+/* 05/09/18	18h
+ parei na aula 4 de CMS
+ gerava erro ao abrir view home, informando que não tem variável 'depoimentos',
+ o homeController chama o home pelo loadTemplate, que pode não estar certo da forma da aula, mesmo que deu certo na exibição do video, quero saber qual o relacionamento das classes
+ e de onde pode ser chamado o view home.
+*/
 session_start();
 require 'config.php';
 
