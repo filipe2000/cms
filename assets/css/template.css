@@ -1,0 +1,21 @@
+body{
+	background-color: #fff;
+	margin: 0;
+}
+.topo{
+	height: 80px;
+	background-color: #EEE;
+}
+.menu{
+	height: 40px;
+	background-color: #DDD;
+}
+.container{
+	min-height: 200px;
+	background-color: #f7f7f7;
+}
+.rodape{
+	height: 80px;
+	background-color: #DDD;
+}
+/* parado na aula 3
